@@ -1,2 +1,3 @@
 # hello-world
 Just a short exercise done in every programming language with which I've worked. Hello World is a right of passage. Onward through the fog...
+Yes, it gets quite chilly in Alaska, but the halibut tacos are excellent!
